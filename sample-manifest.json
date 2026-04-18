@@ -1,12 +1,12 @@
 {
-  "export_job_id": "48c407f3-5c0d-4cab-a54c-0e3a6f1c6420",
+  "export_job_id": "3977abd3-b49b-4d58-9307-6d326dbcae9f",
   "id_short": 907637,
-  "published_at": "2026-04-15T19:24:51Z",
+  "published_at": "2026-04-18T20:01:59Z",
   "repo_name": "the-hhi-monopoly-index-for-washington-arlington-alexandria-metro-area-dc-va-md-wv-sample-907637",
   "sample_asset_name": "beamstation_907637_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/907637/beamstation_907637_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_records": 28,
   "sample_sha256": "7e9d26a3d0a0ff45ac01a6d17563d75309dadeda9aa5e7ea448ce38e5b2cfa52",
   "sample_size_bytes": 126514,
-  "total_records": 320
+  "total_records": 287
 }
