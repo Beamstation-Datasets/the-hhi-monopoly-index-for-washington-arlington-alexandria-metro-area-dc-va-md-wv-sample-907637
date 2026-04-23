@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `907637` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 287 records |
-| Free sample size | 28 records (9.76%) |
-| Last export | 2026-04-15T05:37:04.203227+00:00 |
+| Full dataset size | 241 records |
+| Free sample size | 24 records (9.96%) |
+| Last export | 2026-04-22T11:25:10.242171+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-washington-arlington-alexandria-metro-area-dc-va-md-wv-sample-907637/releases/download/sample-latest/beamstation_907637_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
